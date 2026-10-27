@@ -1,3 +1,4 @@
+# KR2: Osadchev
 import os
 import socket
 
